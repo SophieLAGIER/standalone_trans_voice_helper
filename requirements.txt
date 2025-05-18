@@ -1,0 +1,9 @@
+torch>=2.2.0
+torchaudio>=2.2.0
+sounddevice>=0.4
+scipy>=1.11
+numpy>=1.26
+matplotlib>=3.8
+speechrecognition>=3.10
+librosa>=0.10
+tk
