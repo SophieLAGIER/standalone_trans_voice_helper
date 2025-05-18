@@ -27,3 +27,10 @@ python -m venv .venv
 # Windows: .venv\Scripts\activate
 source .venv/bin/activate
 pip install -r requirements.txt
+
+
+##TODO
+
+- [ ] Data ANalyse of historique
+- [ ] make the capture still workin while analyzing curent audio
+- [ ] update UX
