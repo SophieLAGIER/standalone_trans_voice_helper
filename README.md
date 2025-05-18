@@ -12,7 +12,7 @@ VoiceGender is a Python 3 desktop app that:
 
 Runs fully offline except for the optional Google STT request.
 
-##TODO
+## TODO
 
 - [ ] Data ANalyse of historique
 - [ ] make the capture still workin while analyzing curent audio
@@ -36,6 +36,9 @@ python -m venv .venv
 # Windows: .venv\Scripts\activate
 source .venv/bin/activate
 pip install -r requirements.txt
+  
+## run the app
 
+run main.py 
 
 
