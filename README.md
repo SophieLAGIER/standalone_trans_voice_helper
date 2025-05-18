@@ -28,8 +28,10 @@ See `requirements.txt` for exact package versions.
 
 ## Installation
 ```bash
+## Installation
+```bash
 git clone <your-repo>
-cd VoiceGender
+cd standalone_trans_voice_helper
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 source .venv/bin/activate
